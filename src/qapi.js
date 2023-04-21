@@ -23,7 +23,19 @@ export default {
 	"mode": "production",
 	"projectType": "create-react-app",
 	"site": {
-		"styles": {},
+		"styles": {
+			"font": "italic normal 1000 20px --fontFamily-serifTimes",
+			"color": "#3bc7a7",
+			"text-transform": "uppercase",
+			"text-decoration-line": "",
+			"text-align": "center",
+			"background": "#0459b5",
+			"border-style": "dashed",
+			"border-width": "",
+			"border-color": "rgba(130, 0, 187, 0)",
+			"text-shadow": "1px 1px 0 rgba(0, 255, 248, 0)",
+			"box-shadow": "0 0 0 0 #ffffff"
+		},
 		"seo": {}
 	}
 }

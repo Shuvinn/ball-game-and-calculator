@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/HyperMonkeyTERR/calculator/pulls">
+    <img src="https://badgen.net/github/prs/HyperMonkeyTERR/calculator" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/HyperMonkeyTERR/calculator" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
